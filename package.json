@@ -1,0 +1,11 @@
+{
+  "name": "roize-bot",
+  "version": "1.0.0",
+  "main": "roize-bot.js",
+  "scripts": {
+    "start": "node roize-bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
